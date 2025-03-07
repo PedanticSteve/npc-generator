@@ -51,7 +51,9 @@ python main.py
 - ✅ increase name pools and race varieties (Tieflings, Dragonborn, etc.)
 - ✅ Include more detailed personality and backstory options
 - ✅ logic to select name based on the randomly chosen race (right now all names are in the pool for all NPCs)
-
+- ✅ output NPC to a file
+- ✅ customize output for different RPG settings
+  
 ### 🤝 Contributing
 Pull requests are welcome!
 
